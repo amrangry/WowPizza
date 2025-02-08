@@ -27,6 +27,8 @@
 		11B434392D5760B700563633 /* WowPizza.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WowPizza.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11B4344A2D5760B800563633 /* WowPizzaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WowPizzaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		11B434542D5760B800563633 /* WowPizzaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WowPizzaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		11B435972D57781200563633 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		11B436312D57786600563633 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +77,8 @@
 		11B434302D5760B700563633 = {
 			isa = PBXGroup;
 			children = (
+				11B436312D57786600563633 /* .gitignore */,
+				11B435972D57781200563633 /* README.md */,
 				11B4343B2D5760B700563633 /* WowPizza */,
 				11B4344D2D5760B800563633 /* WowPizzaTests */,
 				11B434572D5760B800563633 /* WowPizzaUITests */,
