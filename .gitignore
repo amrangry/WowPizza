@@ -2,6 +2,9 @@
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
 
+## macOS system files
+.DS_Store
+
 ## User settings
 # This ignores user-specific settings and data, which should not be shared across team members.
 xcuserdata/
