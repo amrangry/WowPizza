@@ -12,7 +12,7 @@ extension Image {
         self
             .resizable()
             .scaledToFit()
-            .frame(width: 90, height: 90)
+            .frame(width: 75, height: 75)
             .aspectRatio(contentMode: .fit)
            //.imageScale(.small)
            // .clipShape(RoundedRectangle(cornerRadius: 10))
